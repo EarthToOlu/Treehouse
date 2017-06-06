@@ -1,6 +1,6 @@
  ## Treehouse 
  
- This is a repo as it were. 
+ It is a repo as it were. 
  
  This is also my favourite fictional characters in comics. Also checkout my podcast [here](https://edible-podcast.com/).
  
